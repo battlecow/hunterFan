@@ -36,7 +36,8 @@ static const VAR_ISR_ATTR HunterFan::Address addresses[] = {
 static const HunterFan::Address PROGMEM addresses[] = {
 #endif
     {"0011001001001111011010000001000000001110"},
-    {"0010000101001110001100101011011111000100"}};
+    {"0010000101001110001100101011011111000100"},
+    {"0001000001101010110111001111001100110010"}};
 
 /**
  * Defined array of fan command speeds
